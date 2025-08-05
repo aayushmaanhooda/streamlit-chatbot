@@ -42,7 +42,7 @@ The frontend is built with Streamlit:
 
 1. **Environment Setup**:
    ```bash
-   pip install -r requirements.txt
+   pip install langgraph langchain streamlit dotenv
    ```
 
 2. **Environment Variables**:
@@ -53,7 +53,7 @@ The frontend is built with Streamlit:
 
 3. **Run the Application**:
    ```bash
-   streamlit run app/frontend.py
+   streamlit run frontend.py
    ```
 
 ## Usage
