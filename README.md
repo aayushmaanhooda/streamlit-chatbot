@@ -53,7 +53,7 @@ The frontend is built with Streamlit:
 
 3. **Run the Application**:
    ```bash
-   streamlit run app/frontend.py
+   streamlit run frontend.py
    ```
 
 ## Usage
